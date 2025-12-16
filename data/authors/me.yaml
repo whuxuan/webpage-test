@@ -2,10 +2,10 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Dr. Zhenxuan Wang
+  given: Zhenxuan  
+  family: Wang
+  alternate: '王振轩''wa''  # Exampl
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
